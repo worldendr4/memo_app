@@ -1,6 +1,6 @@
 # memoapp
 
-u can write and saveing sentence
+u can write and save sentence
 
 ## Getting Started
 
